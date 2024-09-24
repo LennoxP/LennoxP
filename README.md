@@ -1,4 +1,4 @@
-<p align="right">Hi there! I'm currently a student enrolled in a technical course where I'm learning Java, Networks, JavaScript, HTML & CSS. In addition to my school studies, I'm also expanding my knowledge through external courses, such as those from Origamid. I'm passionate about technology and cybersecurity, and I'm gaining experience as a junior ethical hacker, focusing on penetration testing. Always eager to learn and improve my skills!</p>
+<h4 align="right">Hi there! I'm currently a student enrolled in a technical course where I'm learning Java, Networks, JavaScript, HTML & CSS. In addition to my school studies, I'm also expanding my knowledge through external courses, such as those from Origamid. I'm passionate about technology and cybersecurity, and I'm gaining experience as a junior ethical hacker, focusing on penetration testing. Always eager to learn and improve my skills!</h4>
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/83/27/81/832781a8f003bfb334cb817d4ff02ace.gif"  />
 </div>
 
 ###
