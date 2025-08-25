@@ -47,8 +47,4 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/83/27/81/832781a8f003bfb334cb817d4ff02ace.gif"  />
-</div>
-
 ###
