@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2282827280436379098/4B9C70D414EE3D993F966DCE79684F8CBC9C5D6C/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
-
 ###
 
 <div align="right">
